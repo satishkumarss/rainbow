@@ -1,5 +1,5 @@
 adding color 
 red
-green 
 blue
 yellow
+vibgyor
