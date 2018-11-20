@@ -5,4 +5,4 @@ yellow
 vibgyor
 chethan added colors
 one more addition in chethan
-changes happened in master with some deletions
+
