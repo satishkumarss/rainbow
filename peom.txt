@@ -1,0 +1,4 @@
+adding color 
+red
+green 
+blue
