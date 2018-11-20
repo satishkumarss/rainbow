@@ -6,3 +6,4 @@ vibgyor
 chethan added colors
 one more addition in chethan
 changes happened in master with some deletions
+added lalithesh into master with some changes
